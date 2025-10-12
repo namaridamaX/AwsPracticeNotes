@@ -1,0 +1,43 @@
+# ☁️ AwsPracticeNotes
+
+A personal repository documenting hands-on AWS practices and learnings.  
+You can easily see which AWS services I’ve worked with, and explore how I combined them in real system builds.
+
+---
+
+## 🧩 AWS Services Covered
+
+| Category | Service | Status | Notes / Related Projects |
+|-----------|----------|---------|---------------------------|
+| Compute | [EC2](./services/EC2/README.md) | ✅ Completed | Used for backend hosting in [Fullstack on EC2](./projects/fullstack-on-ec2/) |
+| Database | [RDS (MySQL)](./services/RDS/README.md) | ✅ Completed | Connected to EC2 app; automated backups configured |
+| Storage | [S3](./services/S3/README.md) | ✅ Completed | Used for static website hosting |
+| Networking | [Route 53](./services/Route53/README.md) | ✅ Completed | Custom domain and subdomain setup |
+| Monitoring | [CloudWatch](./services/CloudWatch/README.md) | ✅ Completed | Log shipping and metrics visualization |
+| Security | [IAM](./services/IAM/README.md) | 🔄 In Progress | Working on policy least-privilege setup |
+| CI/CD | [GitHub Actions](./services/GitHubActions/README.md) | ✅ Completed | Used for automatic build & deploy |
+
+---
+
+## 🏗️ Projects (System Builds)
+
+| Project | Summary | Main Services Used |
+|----------|----------|-------------------|
+| [Fullstack on EC2](./projects/fullstack-on-ec2/) | React + Spring Boot on EC2 with RDS and ALB | EC2, RDS, ALB, Route53 |
+| [Static Website on S3](./projects/static-web-on-s3/) | S3 static hosting + CloudFront + Route53 | S3, CloudFront, Route53 |
+| [Monitoring Setup](./projects/monitoring-with-cloudwatch/) | EC2 logs to CloudWatch + custom metrics | CloudWatch, EC2 |
+
+---
+
+## 🧱 Repository Structure
+
+```
+AwsPracticeNotes/
+├── services/ # Individual AWS service notes
+├── projects/ # Hands-on builds combining multiple services
+├── diagrams/ # Architecture diagrams
+└── docs/ # Templates and references
+```
+
+---
+
