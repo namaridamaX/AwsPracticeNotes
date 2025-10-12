@@ -7,15 +7,15 @@ You can easily see which AWS services I’ve worked with, and explore how I comb
 
 ## 🧩 AWS Services Covered
 
-| Category | Service | Status | Notes / Related Projects |
-|-----------|----------|---------|---------------------------|
-| Compute | [EC2](./services/EC2/README.md) | ✅ Completed | Used for backend hosting in [Fullstack on EC2](./projects/fullstack-on-ec2/) |
-| Database | [RDS (MySQL)](./services/RDS/README.md) | ✅ Completed | Connected to EC2 app; automated backups configured |
-| Storage | [S3](./services/S3/README.md) | ✅ Completed | Used for static website hosting |
-| Networking | [Route 53](./services/Route53/README.md) | ✅ Completed | Custom domain and subdomain setup |
-| Monitoring | [CloudWatch](./services/CloudWatch/README.md) | ✅ Completed | Log shipping and metrics visualization |
-| Security | [IAM](./services/IAM/README.md) | 🔄 In Progress | Working on policy least-privilege setup |
-| CI/CD | [GitHub Actions](./services/GitHubActions/README.md) | ✅ Completed | Used for automatic build & deploy |
+| Service | Status | Notes / Related Projects |
+|----------|---------|---------------------------|
+| [EC2](./services/EC2/README.md) | ✅ Completed | Used for backend hosting in [Fullstack on EC2](./projects/fullstack-on-ec2/) |
+| [RDS (MySQL)](./services/RDS/README.md) | ✅ Completed | Connected to EC2 app; automated backups configured |
+| [S3](./services/S3/README.md) | ✅ Completed | Used for static website hosting |
+| [Route 53](./services/Route53/README.md) | ✅ Completed | Custom domain and subdomain setup |
+| [CloudWatch](./services/CloudWatch/README.md) | ✅ Completed | Log shipping and metrics visualization |
+| [IAM](./services/IAM/README.md) | 🔄 In Progress | Working on policy least-privilege setup |
+| [GitHub Actions](./services/GitHubActions/README.md) | ✅ Completed | Used for automatic build & deploy |
 
 ---
 
