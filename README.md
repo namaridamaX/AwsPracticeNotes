@@ -15,12 +15,12 @@ You can easily see which AWS services I’ve worked with, and explore how I comb
 | [Route 53](./services/Route53/README.md) | ✅ Completed | Custom domain and subdomain setup |
 | [CloudWatch](./services/CloudWatch/README.md) | ✅ Completed | Log shipping and metrics visualization |
 | [IAM](./services/IAM/README.md) | 🔄 In Progress | Working on policy least-privilege setup |
-| []() | ✅ Completed |  |
-| []() | ✅ Completed |  |
-| []() | ✅ Completed |  |
-| []() | ✅ Completed |  |
-| []() | ✅ Completed |  |
-| []() | ✅ Completed |  |
+| [VPC]() | ✅ Completed |  |
+| [Lambda]() | ✅ Completed |  |
+| [ELB]() | ✅ Completed |  |
+| [AWS Certificate Manager]() | ✅ Completed |  |
+| [Cognito]() | ✅ Completed |  |
+| [NatGateWay]() | ✅ Completed |  |
 | []() | ✅ Completed |  |
 | []() | ✅ Completed |  |
 | []() | ✅ Completed |  |
