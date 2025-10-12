@@ -15,7 +15,15 @@ You can easily see which AWS services I’ve worked with, and explore how I comb
 | [Route 53](./services/Route53/README.md) | ✅ Completed | Custom domain and subdomain setup |
 | [CloudWatch](./services/CloudWatch/README.md) | ✅ Completed | Log shipping and metrics visualization |
 | [IAM](./services/IAM/README.md) | 🔄 In Progress | Working on policy least-privilege setup |
-| [GitHub Actions](./services/GitHubActions/README.md) | ✅ Completed | Used for automatic build & deploy |
+| []() | ✅ Completed |  |
+| []() | ✅ Completed |  |
+| []() | ✅ Completed |  |
+| []() | ✅ Completed |  |
+| []() | ✅ Completed |  |
+| []() | ✅ Completed |  |
+| []() | ✅ Completed |  |
+| []() | ✅ Completed |  |
+| []() | ✅ Completed |  |
 
 ---
 
