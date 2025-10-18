@@ -20,10 +20,22 @@ You can easily see which AWS services I’ve worked with, and explore how I comb
 | [ELB]() | ✅ Completed |  |
 | [AWS Certificate Manager]() | ✅ Completed |  |
 | [Cognito]() | ✅ Completed |  |
-| [NatGateWay]() | ✅ Completed |  |
-| []() | ✅ Completed |  |
-| []() | ✅ Completed |  |
-| []() | ✅ Completed |  |
+| [NatGateway]() | ✅ Completed |  |
+| [Amazon Bedrock]() | ✅ Completed |  |
+| [AmazonSES]() | ✅ Completed |  |
+| [Amazon Transcribe]() | ✅ Completed |  |
+| [Amazon SQS]() | ✅ Completed |  |
+| [API Gateway]() | 🔄 In Progress |  |
+| [ElacticBeanstalk]() | 🔄 In Progress |  |
+| [Amplify]() | 🔄 In Progress |  |
+| [StepFunction]() | 🔄 In Progress |  |
+| [AuroraService]() | 🔄 In Progress |  |
+| [DynamoDB]() | 🔄 In Progress |  |
+| [WAF]() | 🔄 In Progress |  |
+| [Shield]() | 🔄 In Progress |  |
+| [Amazon Glue]() | 🔄 In Progress |  |
+| [Amazon Athena]() | 🔄 In Progress |  |
+| [Eventbridge]() | 🔄 In Progress |  |
 
 ---
 
