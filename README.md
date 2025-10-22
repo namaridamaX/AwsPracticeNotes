@@ -9,25 +9,25 @@ You can easily see which AWS services I’ve worked with, and explore how I comb
 
 | Service | Status | Notes / Related Projects |
 |----------|---------|---------------------------|
-| [EC2](./services/EC2/README.md) | ✅ Completed | Used for backend hosting in [Fullstack on EC2](./projects/fullstack-on-ec2/) |
-| [RDS (MySQL)](./services/RDS/README.md) | ✅ Completed | Connected to EC2 app; automated backups configured |
-| [S3](./services/S3/README.md) | ✅ Completed | Used for static website hosting |
-| [Route 53](./services/Route53/README.md) | ✅ Completed | Custom domain and subdomain setup |
-| [CloudWatch](./services/CloudWatch/README.md) | ✅ Completed | Log shipping and metrics visualization |
-| [IAM](./services/IAM/README.md) | 🔄 In Progress | Working on policy least-privilege setup |
-| [VPC]() | ✅ Completed |  |
+| [EC2](./services/EC2/README.md) | ✅ Completed | EnqueteService |
+| [RDS (MySQL)](./services/RDS/README.md) | ✅ Completed | EnqueteService |
+| [S3](./services/S3/README.md) | ✅ Completed |  |
+| [Route 53](./services/Route53/README.md) | ✅ Completed | EnqueteService |
+| [CloudWatch](./services/CloudWatch/README.md) | ✅ Completed | EnqueteService |
+| [IAM](./services/IAM/README.md) | 🔄 In Progress | EnqueteService |
+| [VPC]() | ✅ Completed | EnqueteService |
 | [Lambda]() | ✅ Completed |  |
-| [ELB]() | ✅ Completed |  |
-| [AWS Certificate Manager]() | ✅ Completed |  |
-| [Cognito]() | ✅ Completed |  |
-| [NatGateway]() | ✅ Completed |  |
+| [ELB]() | ✅ Completed | EnqueteService |
+| [AWS Certificate Manager]() | ✅ Completed | EnqueteService |
+| [Cognito]() | ✅ Completed | EnqueteService |
+| [NatGateway]() | ✅ Completed | EnqueteService |
 | [Amazon Bedrock]() | ✅ Completed |  |
 | [AmazonSES]() | ✅ Completed |  |
 | [Amazon Transcribe]() | ✅ Completed |  |
 | [Amazon SQS]() | ✅ Completed |  |
 | [API Gateway]() | 🔄 In Progress |  |
-| [ElacticBeanstalk]() | 🔄 In Progress |  |
-| [Amplify]() | 🔄 In Progress |  |
+| [ElacticBeanstalk]() | 🔄 In Progress | CloudUploader |
+| [Amplify]() | 🔄 In Progress | CloudUploader |
 | [StepFunction]() | 🔄 In Progress |  |
 | [AuroraService]() | 🔄 In Progress |  |
 | [DynamoDB]() | 🔄 In Progress |  |
